@@ -17,10 +17,10 @@
 ## **Cloud Computing**
 [Mentalk Cloud Computing](https://github.com/Bangkit-Capstone-Psychology-Tools/m-backend)
 
-**Project Background**
+## **Project Background**
 Traditional psychologists face challenges in manually implementing tools for counseling, hindering their effectiveness in addressing the mental health needs of the Indonesian population. To address this issue, our project aims to develop an application that automates existing psychological tools, facilitating both offline and online counseling sessions. The research question guiding our project is how to effectively implement a diverse range of tools within the application. Background information underscores the urgency of the problem, with Indonesia experiencing a high prevalence of mental health disorders, affecting approximately 20% of its population. Dr. Celestinus Eigya Munthe, Director of Prevention and Control of Mental Health and Substance Abuse Problems, highlights the pressing need for scalable solutions to address this issue. The increase of psychological phenomena, worsened by the rise in social media usage, highlights the need for efficient tools to assist psychologists in analysis and diagnosis. Our application seeks to empower psychologists to handle a larger number of clients efficiently, ultimately improving access to mental health services for the Indonesian people. By automating tools and streamlining counseling processes, we aim to provide a robust solution that serves as a pivotal resource in Indonesia's mental health landscape.
 
-#**Machine Learning**
+# **Machine Learning**
 
 ## **Our Colab Link:**
 - [Mental Health Predictor](https://colab.research.google.com/drive/1ERyqqPszdFqunyAq0iLuEo25VrEHfSHh?usp=sharing)
