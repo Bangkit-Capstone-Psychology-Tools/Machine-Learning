@@ -67,7 +67,7 @@ pip install tensorflow keras matplotlib numpy
    
 5. Save the trained model as `saved_model.pb` for future use.
    
-6. Serve the model using `FastAPI`
+6. Serve the model using `FastAPI`, refer to our gitlab repo [https://gitlab.com/zemetia/mentalk-ml-be](https://gitlab.com/zemetia/mentalk-ml-be)
 
 7. Use the saved model in your application
 
