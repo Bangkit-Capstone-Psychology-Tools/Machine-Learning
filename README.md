@@ -38,3 +38,43 @@ Our models are saved using the `saved_model.pb` format, which allows us to easil
 For deployment, we utilize FastAPI, a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. FastAPI is easy to use and deploy, and it's also incredibly efficient at handling requests.
 
 The deployed models are hosted on Cloud Run, a managed compute platform that automatically scales your stateless containers. Cloud Run is developer-friendly, offering seamless integration with existing Google Cloud services.
+
+## **Requirements**
+
+To run the notebook and utilize the model, the following dependencies are required:
+- Tensorflow
+- Keras
+- Matplotlib
+- NumPy
+
+## Usage
+
+1. Clone the repository
+
+```bash
+git clone git@github.com:Bangkit-Capstone-Psychology-Tools/Machine-Learning.git
+```
+
+2. Install the required dependencies in your Google Colab/Jupyter Notebook.
+
+```bash
+pip install tensorflow keras matplotlib numpy
+```
+
+3. Navigate to the repository `Notebooks` directory and open the notebooks.
+
+4. Run the cells in the notebook to train the model and evaluate its performance.
+   
+5. Save the trained model as `saved_model.pb` for future use.
+   
+6. Serve the model using `FastAPI`
+
+7. Use the saved model in your application
+
+## Contributing
+
+Contributions to this project are welcome. If you have any ideas, suggestions, or improvements, please submit a pull request. Make sure to follow the existing coding style and guidelines.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the license terms.
