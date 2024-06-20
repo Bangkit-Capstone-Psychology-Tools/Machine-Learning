@@ -49,19 +49,11 @@ To run the notebook and utilize the model, the following dependencies are requir
 
 ## Usage
 
-1. Clone the repository
+1. Open one of the colab link above,
 
-```bash
-git clone git@github.com:Bangkit-Capstone-Psychology-Tools/Machine-Learning.git
-```
+2. File > Save a copy in Drive
 
-2. Install the required dependencies in your Google Colab/Jupyter Notebook.
-
-```bash
-pip install tensorflow keras matplotlib numpy
-```
-
-3. Navigate to the repository `Notebooks` directory and open the notebooks.
+3. Select Runtime.
 
 4. Run the cells in the notebook to train the model and evaluate its performance.
    
