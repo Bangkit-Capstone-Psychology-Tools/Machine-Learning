@@ -12,7 +12,7 @@
 # Mentalk Machine Learning Project
 
 ## **Android**
-[Mentalk Android](https://github.com/skizofrenzoned/MentalkApp)
+[Mentalk Android](https://github.com/Bangkit-Capstone-Psychology-Tools/Mentalk-MD)
 
 ## **Cloud Computing**
 [Mentalk Cloud Computing](https://github.com/Bangkit-Capstone-Psychology-Tools/m-backend)
